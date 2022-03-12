@@ -1,0 +1,3 @@
+name: plugin-reloader
+version: 1.0
+main: io.github.devrawr.reloader.ReloaderPlugin
